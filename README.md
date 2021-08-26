@@ -1,4 +1,4 @@
-### Boost your Grid apps developing with libraries that I contribute:
+### Boost your grid-based apps developing with libraries that I contribute:
 
 - 📋 [Handsontable](https://github.com/handsontable/handsontable) [![stars](https://img.shields.io/github/stars/handsontable/handsontable?style=flat-square)](https://github.com/handsontable/handsontable) [![downloads](https://img.shields.io/npm/dt/handsontable?style=flat-square)](https://www.npmjs.com/package/handsontable)
 
